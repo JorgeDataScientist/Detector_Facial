@@ -1,6 +1,8 @@
 
 # Detección Facial en Tiempo Real con Python y OpenCV
 
+![1681938214053](image/README/1681938214053.png)
+
 La aplicación desarrollada es un detector facial en tiempo real que utiliza la biblioteca de visión por computadora OpenCV en Python. Al utilizar el modelo Haar Cascade, detecta las caras en una imagen de video y resalta las caras detectadas con un cuadro rojo.
 
 La tecnología utilizada en esta aplicación es la biblioteca OpenCV en Python, que brinda una amplia variedad de herramientas y funciones para el procesamiento de imágenes y videos en tiempo real. Además, el modelo Haar Cascade utilizado para la detección de rostros es un algoritmo de aprendizaje automático que se ha entrenado para detectar patrones específicos en una imagen.
